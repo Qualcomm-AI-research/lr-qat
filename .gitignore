@@ -1,0 +1,32 @@
+# PyCharm
+.idea
+
+# MAC OS
+.DS_Store
+
+# pytest
+.coverage
+.pytest
+.pytest_cache
+
+# Python
+*__pycache__*
+*.py[cod]
+*.cpython-38.pyc
+*.egg-info
+
+# Patches (not to be committed by mistake)
+*.patch
+
+# Notebooks
+*.ipynb
+
+# Plots
+*.pdf
+*.png
+*.jpg
+!img/*
+
+# Hidden files
+.*
+!.gitignore

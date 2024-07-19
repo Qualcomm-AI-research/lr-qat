@@ -1,0 +1,11 @@
+accelerate~=0.26.0
+click~=8.1.7
+datasets~=2.19.0
+lm-eval~=0.4.2
+numpy~=1.24.2
+pyyaml
+scipy~=1.10.1
+sentencepiece==0.2.0
+tensorboard~=2.14.0
+tqdm
+transformers~=4.40.2
