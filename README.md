@@ -3,7 +3,7 @@
 This repository contains the implementation experiments for the paper presented in
 
 **Yelysei Bondarenko<sup>1</sup>, Riccardo Del Chiaro<sup>1</sup>, Markus Nagel<sup>1</sup>, 
-"Low-Rank Quantization-Aware Training for LLMs", NeurIPS 2024 submission.** [[ArXiv]](https://arxiv.org/abs/2406.06385)
+"Low-Rank Quantization-Aware Training for LLMs".** [[ArXiv]](https://arxiv.org/abs/2406.06385)
 
 <sup>1</sup> Qualcomm AI Research (Qualcomm AI Research is an initiative of Qualcomm Technologies, Inc.)
 
